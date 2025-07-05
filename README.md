@@ -1,4 +1,4 @@
-# supplyment_materials_of_ECSR_II
+# supplementary materials of ECSR II
   The supplementary material include two parts of content, the first part is 
 the Appendix, the second part is the manuscript of "Energy Circuit Security
 Region of Energy System (I): Concepts and Models".
